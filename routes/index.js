@@ -5,4 +5,8 @@ router.get("/",(req,res)=>{
     res.json({msg:"Rest api work !"})
 })
 
+
+
+
+
 module.exports=router;
